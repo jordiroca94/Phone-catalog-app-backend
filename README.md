@@ -1,7 +1,5 @@
 # PHONE CATALOG APP
 
-
-
 ## Description 
 
 Phone catalog app where you have a Homepage that displays some telephones, by clicking in each phone you get additional information of the phone. 
@@ -14,7 +12,7 @@ Frontend is running on the port 3000
 
 Backend Server is running on the port 3005
 
-In order to test the application you need to open one terminal for each repository and run the following command in each terminal: npm start
+In order to test the application you need to open one terminal for each repository and install node modules ( command: npm install)  after node modules are installed run the node package modules ( command: npm run).
 
 ## Server routes (API)
 
